@@ -1,2 +1,7 @@
-# Millanstore.github.io
-I am gonna make it one day
+
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Hello, World! Welcome to my GitHub Pages site.</h1>
+</body>
+</html>
